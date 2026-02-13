@@ -1,5 +1,5 @@
 import { View, Text, StyleSheet, StatusBar } from 'react-native';
-
+//vk
 export default function App() {
   return (
     <View style={styles.container}>
